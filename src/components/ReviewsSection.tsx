@@ -54,7 +54,7 @@ const ReviewsSection = () => (
 
       <AnimatedSection className="flex justify-center gap-6 mt-10">
         <a
-          href="https://www.tripadvisor.com"
+          href="https://www.tripadvisor.es/Restaurant_Review-g1064230-d4817686-Reviews-La_Gambita_Alicantina-Alicante_Costa_Blanca_Province_of_Alicante_Valencian_Commu.html"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 font-body text-sm font-bold text-secondary hover:underline"
@@ -62,7 +62,7 @@ const ReviewsSection = () => (
           Tripadvisor <ExternalLink size={14} />
         </a>
         <a
-          href="https://maps.google.com"
+          href="https://www.google.com/maps/place/La+Gambita+Alicantina/@38.3609634,-0.4782684,17z/data=!3m1!4b1!4m6!3m5!1s0xd62370904daf2af:0x59664af25bbff2d2!8m2!3d38.3609592!4d-0.4756935!16s%2Fg%2F11b7rtr0r7?hl=es-419&entry=ttu&g_ep=EgoyMDI2MDMyMy4xIKXMDSoASAFQAw%3D%3D"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-2 font-body text-sm font-bold text-secondary hover:underline"

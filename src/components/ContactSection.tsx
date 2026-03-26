@@ -68,7 +68,7 @@ const ContactSection = () => (
                 Llamar ahora
               </a>
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/LaGambitaAlicantina"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 border border-secondary-foreground/30 px-6 py-3 rounded-md font-bold hover:bg-secondary-foreground/10 transition-colors text-sm"
@@ -84,7 +84,7 @@ const ContactSection = () => (
           <div className="rounded-lg overflow-hidden shadow-xl h-full min-h-[350px]">
             <iframe
               title="Ubicación de La Gambita Alicantina"
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3128.5!2d-0.4957!3d38.3452!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd6236e4a0c59f25%3A0x0!2sC.%20Felipe%20Herrero%20Arias%2C%2030%2C%2003013%20Alicante!5e0!3m2!1ses!2ses!4v1"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3128.482274455363!2d-0.47826842521376683!3d38.36096337817947!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd62370904daf2af%3A0x59664af25bbff2d2!2sLa%20Gambita%20Alicantina!5e0!3m2!1ses-419!2ses!4v1774547943888!5m2!1ses-419!2ses"
               width="100%"
               height="100%"
               style={{ border: 0, minHeight: "350px" }}
